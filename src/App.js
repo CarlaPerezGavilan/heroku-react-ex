@@ -1,5 +1,5 @@
 import "./styles.css";
-import PersistentDrawerLeft from "./Components/Drawer";
+import PersistentDrawerLeft from "../public/Components/Drawer";
 import { useState } from "react";
 
 export default function App() {
